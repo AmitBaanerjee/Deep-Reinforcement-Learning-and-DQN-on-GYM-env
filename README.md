@@ -18,6 +18,10 @@ Once, the agent reaches around 90000 timesteps, we can deduce that the explorati
 
 * Total time taken to train the agent = 2196 seconds
 Outputs
+![](Images/carinput.png)
+![](Images/backcar.png)
+![](Images/medcar.png)
+![](Images/finalcar.png)
 
 Ice Hockey Environment
 Introduction
@@ -33,5 +37,8 @@ Once, the agent reaches around 20000 timesteps, we can deduce that the explorati
 
 Total time taken to train the agent = 1207 seconds
 Outputs
-  
+![](Images/ataristart.png)
+![](Images/atarigoal.png)
+![](Images/atari1.png)
+![](Images/atari3.png)
 
